@@ -12,7 +12,7 @@
 
 ## 2️⃣ Chỉnh Sửa Ứng Dụng
 
-3. Sau khi mở ứng dụng, nhấp vào nút "Edit App" để bắt đầu quá trình chỉnh sửa.
+3. Sau khi mở ứng dụng, thầy nhấp vào nút "Edit App" để bắt đầu quá trình chỉnh sửa.
 
 _Truy cập tài khoản mẫu để vào giao diện chính:_
 
@@ -24,9 +24,9 @@ _Password: 12345678_
 
 ## 3️⃣ Xem Code
 
-4. Trong trình chỉnh sửa, tìm và nhấp vào biểu tượng <img src="./images/code_icon.png" alt="Code Icon" style="height: 1em; vertical-align: middle;"> trên màn hình để xem mã nguồn của ứng dụng.
+4. Trong trình chỉnh sửa, thầy có thể tìm và nhấp vào biểu tượng  <img src="./images/code_icon.png" alt="Code Icon" style="height: 1em; vertical-align: middle;"> trên màn hình để xem mã nguồn của ứng dụng.
 
 ![View Code](./images/view_code.png)
 
-Các mã xử lý và SQL script được đặt tại đây. Ngoài ra với từng *Nút bấm* khi chọn vào cũng có các mã xử lý riêng trong mục **Inspector**
+Các mã xử lý và SQL script được chúng em đặt tại đây. Ngoài ra với từng Nút bấm khi chọn vào cũng có các mã xử lý riêng trong mục **Inspector**
 ![Button](./images/button.png)
