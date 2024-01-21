@@ -4,9 +4,11 @@
 
 1. Truy cập [retool.com](https://dark-greencat.github.io/AGV_Server/), click *Thử nghiệm phần mềm* và đăng nhập vào tài khoản trên màn hình.
 
+![Open App](./images/open_app1.png)
+
 2. Mở ứng dụng sau khi đăng nhập.
 
-![Open App](./images/open_app.png)
+![Open App](./images/open_app2.png)
 
 ## Chỉnh Sửa Ứng Dụng
 
