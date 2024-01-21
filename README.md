@@ -14,6 +14,12 @@
 
 3. Sau khi mở ứng dụng, nhấp vào nút "Edit App" để bắt đầu quá trình chỉnh sửa.
 
+_Truy cập tài khoản mẫu để vào giao diện chính:_
+
+_Tên đăng nhập: a@a.com_  
+_Password: 12345678_
+
+
 ![Edit App](./images/edit_app.png)
 
 ## 3️⃣ Xem Code
